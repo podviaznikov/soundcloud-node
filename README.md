@@ -1,6 +1,6 @@
 # soundcloud
 
-Node.js API client for soundcloudn platform.
+Node.js API client for SoundCloud platform.
 
 
 ## License
